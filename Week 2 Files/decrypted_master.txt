@@ -1,0 +1,7 @@
+INFO Server started successfully
+WARNING High CPU usage detected on node 4
+BREACH detected in login module
+INFO Backup completed at 02:30
+ERROR Failed login attempt from unknown user
+Possible Breach attempt blocked by firewall
+INFO System check finished
